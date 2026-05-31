@@ -18,7 +18,7 @@ O sistema realiza:
 
 ## Tecnologias Utilizadas
 
-- Python 3.10+
+- Python 3.11.9
 - Pandas
 - NumPy
 - Matplotlib
