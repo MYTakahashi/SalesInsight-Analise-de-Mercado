@@ -33,7 +33,7 @@ O sistema realiza:
 ```bash
 salesinsight-py/
 │
-├── salesinsight.ipynb
+├── salesinsight.py
 ├── vendas.csv
 └── README.md
 ```
@@ -51,15 +51,8 @@ jupyter notebook
 Abra o arquivo:
 
 ```bash
-salesinsight.ipynb
+salesinsight.py
 ```
-
-### Google Colab
-
-1. Faça upload do notebook `.ipynb`
-2. Execute as células em sequência
-
----
 
 ## Conceitos Aplicados
 
@@ -70,7 +63,6 @@ salesinsight.ipynb
 - Funções de Ordem Superior
 - Expressões Regulares
 - Programação Orientada a Objetos
-- Herança
 - Exportação CSV e JSON
 - Visualização de Dados
 
