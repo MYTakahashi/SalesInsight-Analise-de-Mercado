@@ -80,3 +80,7 @@ salesinsight.ipynb
 
 Este projeto foi desenvolvido para praticar os conceitos do módulo de IA para Análise Preditiva, simulando um pipeline real de análise de vendas.
 
+## Colaboradores:
+Marcelo Takahashi
+Franciane Schier Leite
+Auxiliadora Silvino Arce
