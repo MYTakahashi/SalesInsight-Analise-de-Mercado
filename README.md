@@ -78,5 +78,5 @@ salesinsight.ipynb
 
 ## Objetivo Educacional
 
-Este projeto foi desenvolvido para praticar os conceitos do módulo de IA para Análise Preditiva, simulando um pipeline real de análise de vendas.
+Este projeto foi desenvolvido para praticar os conceitos do módulo de IA para Análise Preditiva, simulando um pipeline real de análise de vendas em aula.
 
