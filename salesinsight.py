@@ -84,9 +84,11 @@ def gerar_dataset_vendas(n_registros=200, seed=42):
 
     return pd.DataFrame(dados)
 
+def main():
+    df_bruto = gerar_dataset_vendas()
+    df_bruto.to_csv("vendas.csv", index=False)
 
-df_bruto = gerar_dataset_vendas()
-df_bruto.to_csv("vendas.csv", index=False)
+    print(df_bruto.head())
 
-print(df_bruto.head())
-
+if __name__ == "__main__":
+    main()
