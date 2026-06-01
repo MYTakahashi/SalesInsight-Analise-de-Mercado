@@ -84,11 +84,25 @@ def gerar_dataset_vendas(n_registros=200, seed=42):
 
     return pd.DataFrame(dados)
 
+def inspecionar_dados(df):
+    print(f"\n" + "="*40 + " Inspeção Inicial dos Dados " + "="*40)
+    df.info()
+    print(f"\n" + "=" *40 + " Tamanho do dataset" + "="*40 + f"\n{df.shape}")
+    print(f"\n" + "=" *40 + " Listagem de colunas do dataset" + "="*40 + f"\n{list(df.columns)}")
+    print(f"\n" + "=" *40 + " Tipos de dados das colunas" + "="*40 + f"\n{df.dtypes}")
+    print(f"\n" + "=" *40 + " Estatísticas do dataset" + "="*40 + f"\n{df.describe(include='all')}")
+    print(f"\n" + "=" *40 + " Amostra dos dados" + "="*40 + f"\n{df.head()}")
+    print(f"\n" + "=" *40 + " Verificação de valores nulos" + "="*40 + f"\n{df.isnull().sum()}")
+    print(f"\n" + "="*40 + " Fim da inspeção inicial " + "="*40)
+    
+
 def main():
     df_bruto = gerar_dataset_vendas()
-    df_bruto.to_csv("vendas.csv", index=False)
 
-    print(df_bruto.head())
+    inspecionar_dados(df_bruto)
+
+    df_bruto.to_csv("vendas.csv", index=False)
 
 if __name__ == "__main__":
     main()
+
