@@ -84,6 +84,8 @@ def gerar_dataset_vendas(n_registros=200, seed=42):
 
     return pd.DataFrame(dados)
 
+#Função para inspeção inicial dos dados.
+
 def inspecionar_dados(df):
     print(f"\n" + "="*40 + " Inspeção Inicial dos Dados " + "="*40)
     df.info()
@@ -94,14 +96,65 @@ def inspecionar_dados(df):
     print(f"\n" + "=" *40 + " Amostra dos dados" + "="*40 + f"\n{df.head()}")
     print(f"\n" + "=" *40 + " Verificação de valores nulos" + "="*40 + f"\n{df.isnull().sum()}")
     print(f"\n" + "="*40 + " Fim da inspeção inicial " + "="*40)
-    
 
+
+ # Função para limpeza dos dados.
+
+def limpar_dados(df):
+
+    n_inicial = len(df)
+    relatorio =  {}
+
+    #Limpeza de espaços em branco em texto
+
+    colunas_texto = df.select_dtypes(include=["object", "string"]).columns
+    for col in colunas_texto:
+        df[col] = df[col].str.strip()
+
+    #Conversão e limpeza de datas
+
+    df["data_venda"] = pd.to_datetime(df["data_venda"], errors="coerce")
+    n_datas_invalidas = df["data_venda"].isnull().sum()
+    df = df.dropna(subset=["data_venda"])
+    relatorio["datas_invalidas_removidas"] = n_datas_invalidas
+
+    #Remover linhas com quantidade ou preço nulos
+
+    n_antes = len(df)
+    df = df.dropna(subset=["quantidade", "preco_unitario"])
+    relatorio["linhas_nulas_removidas"] = n_antes - len(df)
+
+    # Garantir tipos numéricos corretos
+
+    df["quantidade"] = df["quantidade"].astype(int)
+    df["preco_unitario"] = df["preco_unitario"].astype(float)
+
+    n_final = len(df)
+    relatorio["registros_iniciais"] = n_inicial
+    relatorio["registros_finais"] = n_final
+    relatorio["registros_removidos_total"] = n_inicial - n_final
+
+
+     # Relatório de limpeza
+    print("\n=== RELATÓRIO DE LIMPEZA ===")
+    for chave, valor in relatorio.items():
+        print(f"  {chave}: {valor}")
+
+    return df, relatorio
+
+# Função principal para execução do projeto
 def main():
     df_bruto = gerar_dataset_vendas()
 
     inspecionar_dados(df_bruto)
 
     df_bruto.to_csv("vendas.csv", index=False)
+
+    df_limpo = df_bruto.copy()
+
+    df_limpo, relatorio = limpar_dados(df_limpo)
+
+    df_limpo.to_csv("vendas_limpo.csv", index=False)
 
 if __name__ == "__main__":
     main()
