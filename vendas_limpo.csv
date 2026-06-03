@@ -1,181 +1,181 @@
-id_venda,data_venda,cliente,produto,categoria,regiao,quantidade,preco_unitario
-1,2024-05-20,Cliente_035,Mouse,Periféricos,Sudeste,2,102.9
-2,2024-02-17,Cliente_042,Teclado,Periféricos,Norte,7,214.88
-4,2024-06-21,Cliente_017,Smartphone,Celulares,Sudeste,4,2501.76
-5,2024-07-12,Cliente_024,Mouse,Periféricos,Norte,8,121.3
-6,2024-04-26,Cliente_025,Smartphone,Celulares,Nordeste,2,1900.24
-7,2024-06-30,Cliente_039,Monitor,Computadores,Sul,6,1078.56
-8,2024-07-13,Cliente_021,Teclado,Periféricos,Sudeste,4,224.76
-9,2024-07-24,Cliente_021,Smartphone,Celulares,Sul,1,2401.33
-10,2024-11-25,Cliente_017,Mouse,Periféricos,Norte,8,116.24
-11,2024-04-22,Cliente_008,Monitor,Computadores,Sul,10,1163.78
-12,2024-08-04,Cliente_017,Mouse,Periféricos,Norte,3,130.51
-13,2024-02-28,Cliente_008,Headset,Periféricos,Nordeste,1,368.93
-14,2024-05-14,Cliente_041,Monitor,Computadores,Nordeste,3,1183.34
-15,2024-03-19,Cliente_001,Headset,Periféricos,Norte,9,361.44
-16,2024-07-04,Cliente_037,Tablet,Celulares,Sudeste,8,1540.52
-17,2024-09-29,Cliente_017,Notebook,Computadores,Norte,8,3831.82
-18,2024-04-18,Cliente_026,Headset,Periféricos,Nordeste,10,341.93
-19,2024-05-06,Cliente_015,Monitor,Computadores,Sudeste,9,1182.54
-20,2024-01-17,Cliente_014,Notebook,Computadores,Norte,1,3215.39
-21,2024-05-04,Cliente_028,Smartphone,Celulares,Nordeste,10,2250.3
-22,2024-01-28,Cliente_022,Monitor,Computadores,Sudeste,7,1188.13
-23,2024-08-17,Cliente_005,Smartphone,Celulares,Centro-Oeste,4,1995.54
-24,2024-11-29,Cliente_016,Headset,Periféricos,Sul,9,307.78
-25,2024-07-24,Cliente_030,Monitor,Computadores,Nordeste,8,1193.29
-26,2024-09-06,Cliente_035,Monitor,Computadores,Sudeste,9,1258.27
-27,2024-10-26,Cliente_033,Mouse,Periféricos,Sudeste,6,104.06
-28,2024-02-04,Cliente_016,Headset,Periféricos,Norte,3,304.69
-29,2024-08-02,Cliente_043,Teclado,Periféricos,Nordeste,1,258.95
-30,2024-12-09,Cliente_001,Smartphone,Celulares,Centro-Oeste,5,2131.22
-31,2024-02-07,Cliente_005,Teclado,Periféricos,Sul,10,287.21
-32,2024-10-05,Cliente_001,Tablet,Celulares,Norte,5,1615.18
-33,2024-03-09,Cliente_019,Tablet,Celulares,Norte,2,2037.02
-34,2024-11-20,Cliente_004,Smartphone,Celulares,Sudeste,6,2004.37
-36,2024-02-27,Cliente_024,Teclado,Periféricos,Norte,7,254.57
-37,2024-01-22,Cliente_023,Teclado,Periféricos,Sul,3,244.73
-38,2024-06-30,Cliente_010,Mouse,Periféricos,Sul,4,126.01
-41,2024-12-03,Cliente_018,Tablet,Celulares,Nordeste,4,1650.38
-43,2024-06-25,Cliente_025,Notebook,Computadores,Norte,2,3601.4
-45,2024-12-06,Cliente_020,Tablet,Celulares,Norte,7,1567.79
-46,2024-12-22,Cliente_044,Tablet,Celulares,Sul,7,1706.14
-47,2024-10-07,Cliente_039,Teclado,Periféricos,Nordeste,10,235.07
-48,2024-04-19,Cliente_043,Monitor,Computadores,Sudeste,8,1179.18
-49,2024-11-13,Cliente_015,Tablet,Celulares,Sul,9,1888.48
-50,2024-08-31,Cliente_037,Smartphone,Celulares,Sul,1,1900.5
-51,2024-05-04,Cliente_007,Mouse,Periféricos,Centro-Oeste,7,119.8
-52,2024-12-22,Cliente_030,Smartphone,Celulares,Sul,3,2400.71
-53,2024-10-13,Cliente_047,Headset,Periféricos,Norte,8,367.6
-54,2024-03-22,Cliente_041,Monitor,Computadores,Nordeste,9,1180.53
-55,2024-05-02,Cliente_021,Headset,Periféricos,Norte,9,348.38
-56,2024-07-15,Cliente_035,Notebook,Computadores,Centro-Oeste,3,3133.37
-58,2024-06-29,Cliente_035,Monitor,Computadores,Norte,8,1022.12
-59,2024-09-06,Cliente_044,Headset,Periféricos,Centro-Oeste,10,391.77
-60,2024-03-06,Cliente_043,Mouse,Periféricos,Sudeste,3,132.26
-61,2024-08-24,Cliente_022,Notebook,Computadores,Centro-Oeste,7,3117.48
-62,2024-02-11,Cliente_015,Tablet,Celulares,Sudeste,7,1666.23
-64,2024-05-11,Cliente_008,Teclado,Periféricos,Sul,4,247.38
-65,2024-06-08,Cliente_013,Tablet,Celulares,Sudeste,2,1842.49
-66,2024-06-03,Cliente_003,Teclado,Periféricos,Nordeste,4,220.14
-67,2024-02-05,Cliente_007,Teclado,Periféricos,Centro-Oeste,7,262.11
-68,2024-08-10,Cliente_035,Tablet,Celulares,Centro-Oeste,8,1911.95
-69,2024-10-30,Cliente_029,Monitor,Computadores,Sul,7,1317.26
-71,2024-11-01,Cliente_006,Headset,Periféricos,Sul,5,333.24
-72,2024-05-03,Cliente_006,Mouse,Periféricos,Nordeste,7,119.59
-73,2024-06-05,Cliente_048,Smartphone,Celulares,Norte,7,2326.58
-74,2024-05-18,Cliente_048,Tablet,Celulares,Norte,6,1909.54
-75,2024-09-04,Cliente_007,Headset,Periféricos,Sul,3,317.61
-78,2024-09-01,Cliente_044,Notebook,Computadores,Sudeste,5,3963.12
-79,2024-06-04,Cliente_039,Smartphone,Celulares,Norte,3,2405.35
-80,2024-08-14,Cliente_004,Smartphone,Celulares,Norte,9,2121.05
-81,2024-04-16,Cliente_036,Mouse,Periféricos,Sudeste,2,136.11
-82,2024-12-18,Cliente_045,Smartphone,Celulares,Centro-Oeste,1,2139.62
-83,2024-11-16,Cliente_015,Notebook,Computadores,Sul,4,3945.11
-84,2024-03-25,Cliente_029,Tablet,Celulares,Sudeste,3,1568.56
-85,2024-05-19,Cliente_028,Monitor,Computadores,Nordeste,5,1271.9
-86,2024-04-27,Cliente_049,Teclado,Periféricos,Nordeste,5,214.44
-87,2024-03-30,Cliente_038,Teclado,Periféricos,Centro-Oeste,1,269.73
-88,2024-08-28,Cliente_022,Mouse,Periféricos,Centro-Oeste,8,136.89
-89,2024-07-24,Cliente_021,Mouse,Periféricos,Sudeste,8,112.38
-90,2024-01-01,Cliente_024,Headset,Periféricos,Norte,7,388.32
-91,2024-01-27,Cliente_045,Headset,Periféricos,Centro-Oeste,8,363.17
-93,2024-03-01,Cliente_046,Smartphone,Celulares,Nordeste,2,2174.56
-94,2024-05-04,Cliente_048,Monitor,Computadores,Sul,8,1372.89
-96,2024-12-03,Cliente_036,Headset,Periféricos,Norte,10,358.39
-97,2024-04-06,Cliente_027,Monitor,Computadores,Sudeste,8,1355.83
-98,2024-07-14,Cliente_032,Tablet,Celulares,Sudeste,8,1910.82
-99,2024-06-18,Cliente_030,Smartphone,Celulares,Sudeste,9,2507.13
-100,2024-12-01,Cliente_040,Mouse,Periféricos,Centro-Oeste,3,116.76
-101,2024-12-11,Cliente_049,Mouse,Periféricos,Centro-Oeste,2,132.66
-102,2024-02-05,Cliente_006,Headset,Periféricos,Centro-Oeste,9,301.27
-104,2024-07-29,Cliente_025,Monitor,Computadores,Norte,3,1107.91
-105,2024-10-25,Cliente_001,Mouse,Periféricos,Centro-Oeste,4,119.92
-106,2024-08-14,Cliente_045,Tablet,Celulares,Nordeste,9,1615.31
-107,2024-07-15,Cliente_019,Monitor,Computadores,Nordeste,5,1091.72
-108,2024-10-16,Cliente_048,Notebook,Computadores,Centro-Oeste,7,3263.2
-109,2024-04-27,Cliente_044,Headset,Periféricos,Sul,5,378.95
-111,2024-03-30,Cliente_033,Tablet,Celulares,Nordeste,6,1933.64
-112,2024-09-03,Cliente_030,Headset,Periféricos,Sudeste,3,324.48
-113,2024-12-11,Cliente_026,Smartphone,Celulares,Sudeste,4,2437.69
-114,2024-07-07,Cliente_024,Tablet,Celulares,Sudeste,9,1596.74
-115,2024-11-13,Cliente_005,Mouse,Periféricos,Centro-Oeste,4,118.97
-116,2024-02-29,Cliente_007,Mouse,Periféricos,Sul,5,125.37
-117,2024-07-08,Cliente_048,Teclado,Periféricos,Sul,3,241.65
-118,2024-11-11,Cliente_029,Monitor,Computadores,Centro-Oeste,2,1320.13
-119,2024-12-17,Cliente_018,Smartphone,Celulares,Sul,6,1935.57
-120,2024-04-18,Cliente_016,Notebook,Computadores,Sul,8,3071.26
-121,2024-10-10,Cliente_010,Headset,Periféricos,Norte,10,319.05
-122,2024-03-15,Cliente_002,Notebook,Computadores,Sul,5,3876.33
-124,2024-07-04,Cliente_003,Notebook,Computadores,Norte,2,3475.06
-125,2024-01-16,Cliente_032,Tablet,Celulares,Centro-Oeste,8,1877.4
-126,2024-03-16,Cliente_021,Notebook,Computadores,Centro-Oeste,2,3313.22
-127,2024-09-15,Cliente_042,Teclado,Periféricos,Norte,9,234.62
-128,2024-04-26,Cliente_021,Mouse,Periféricos,Centro-Oeste,4,117.48
-129,2024-03-19,Cliente_028,Tablet,Celulares,Sudeste,5,1732.12
-130,2024-10-11,Cliente_027,Mouse,Periféricos,Nordeste,6,131.22
-131,2024-01-27,Cliente_014,Headset,Periféricos,Sul,7,388.65
-132,2024-02-25,Cliente_015,Mouse,Periféricos,Centro-Oeste,8,110.07
-133,2024-11-14,Cliente_045,Headset,Periféricos,Nordeste,9,399.83
-134,2024-06-07,Cliente_043,Notebook,Computadores,Centro-Oeste,3,3261.93
-135,2024-01-16,Cliente_011,Notebook,Computadores,Nordeste,3,3753.02
-136,2024-10-17,Cliente_004,Tablet,Celulares,Sudeste,6,1949.49
-137,2024-09-05,Cliente_023,Tablet,Celulares,Centro-Oeste,8,1887.45
-138,2024-10-30,Cliente_039,Notebook,Computadores,Sudeste,5,3687.13
-139,2024-04-18,Cliente_032,Notebook,Computadores,Centro-Oeste,4,3291.49
-140,2024-12-26,Cliente_026,Smartphone,Celulares,Sudeste,3,2120.94
-141,2024-02-09,Cliente_027,Monitor,Computadores,Nordeste,1,1185.51
-142,2024-06-15,Cliente_024,Notebook,Computadores,Sudeste,7,2996.9
-143,2024-10-28,Cliente_015,Monitor,Computadores,Nordeste,2,1107.59
-144,2024-11-20,Cliente_047,Headset,Periféricos,Sul,3,305.52
-145,2024-04-11,Cliente_050,Smartphone,Celulares,Centro-Oeste,2,1966.65
-146,2024-08-17,Cliente_021,Monitor,Computadores,Nordeste,10,1293.56
-147,2024-08-14,Cliente_005,Smartphone,Celulares,Nordeste,8,1915.07
-148,2024-07-07,Cliente_040,Monitor,Computadores,Norte,8,1033.54
-149,2024-10-10,Cliente_037,Teclado,Periféricos,Sul,7,247.2
-150,2024-03-18,Cliente_046,Tablet,Celulares,Sudeste,10,1786.84
-151,2024-12-28,Cliente_024,Teclado,Periféricos,Nordeste,3,215.44
-152,2024-12-13,Cliente_007,Monitor,Computadores,Norte,7,1298.81
-153,2024-12-02,Cliente_043,Mouse,Periféricos,Sul,7,112.23
-154,2024-12-23,Cliente_036,Tablet,Celulares,Centro-Oeste,5,2052.56
-155,2024-12-09,Cliente_006,Mouse,Periféricos,Centro-Oeste,6,131.27
-156,2024-06-07,Cliente_015,Teclado,Periféricos,Sul,6,213.87
-157,2024-02-21,Cliente_043,Smartphone,Celulares,Nordeste,2,2065.22
-158,2024-07-11,Cliente_011,Headset,Periféricos,Centro-Oeste,10,311.26
-159,2024-05-01,Cliente_015,Notebook,Computadores,Norte,7,3357.51
-160,2024-08-28,Cliente_029,Smartphone,Celulares,Centro-Oeste,5,2507.29
-161,2024-09-14,Cliente_009,Headset,Periféricos,Nordeste,5,379.2
-162,2024-10-10,Cliente_006,Notebook,Computadores,Sul,8,3892.82
-163,2024-03-16,Cliente_023,Tablet,Celulares,Sudeste,8,2018.87
-164,2024-07-10,Cliente_007,Monitor,Computadores,Nordeste,1,1162.72
-165,2024-05-26,Cliente_031,Headset,Periféricos,Centro-Oeste,3,311.95
-166,2024-01-10,Cliente_034,Teclado,Periféricos,Centro-Oeste,1,280.44
-169,2024-12-08,Cliente_033,Teclado,Periféricos,Norte,7,226.55
-171,2024-11-17,Cliente_023,Tablet,Celulares,Norte,4,1925.79
-172,2024-12-16,Cliente_005,Tablet,Celulares,Centro-Oeste,3,1978.41
-173,2024-04-12,Cliente_035,Notebook,Computadores,Centro-Oeste,5,3186.67
-174,2024-04-07,Cliente_018,Tablet,Celulares,Sudeste,1,1936.78
-175,2024-07-23,Cliente_032,Headset,Periféricos,Centro-Oeste,6,343.38
-176,2024-02-12,Cliente_035,Tablet,Celulares,Nordeste,9,1674.03
-177,2024-12-04,Cliente_029,Tablet,Celulares,Nordeste,2,1573.24
-178,2024-06-29,Cliente_004,Monitor,Computadores,Sudeste,1,1281.65
-180,2024-11-26,Cliente_044,Smartphone,Celulares,Centro-Oeste,2,2025.76
-181,2024-02-09,Cliente_016,Tablet,Celulares,Sudeste,6,1769.73
-182,2024-07-17,Cliente_014,Notebook,Computadores,Norte,3,3499.0
-183,2024-03-10,Cliente_006,Tablet,Celulares,Nordeste,8,1638.1
-184,2024-10-08,Cliente_045,Mouse,Periféricos,Sul,6,127.54
-185,2024-03-03,Cliente_024,Headset,Periféricos,Norte,6,350.92
-186,2024-10-09,Cliente_046,Teclado,Periféricos,Centro-Oeste,6,247.56
-187,2024-10-21,Cliente_044,Teclado,Periféricos,Norte,7,270.19
-188,2024-10-09,Cliente_004,Tablet,Celulares,Sudeste,3,2004.1
-189,2024-03-23,Cliente_019,Teclado,Periféricos,Sudeste,3,235.31
-190,2024-10-09,Cliente_042,Tablet,Celulares,Sul,4,1872.93
-191,2024-12-03,Cliente_003,Teclado,Periféricos,Sudeste,10,224.06
-192,2024-10-22,Cliente_002,Notebook,Computadores,Centro-Oeste,1,3970.97
-193,2024-06-03,Cliente_005,Mouse,Periféricos,Sudeste,9,112.43
-194,2024-08-25,Cliente_047,Smartphone,Celulares,Nordeste,8,2144.31
-195,2024-09-20,Cliente_016,Monitor,Computadores,Sul,3,1293.84
-196,2024-07-15,Cliente_021,Notebook,Computadores,Norte,1,3279.72
-197,2024-03-22,Cliente_002,Mouse,Periféricos,Sudeste,6,108.83
-198,2024-05-03,Cliente_042,Monitor,Computadores,Centro-Oeste,9,1184.6
-199,2024-02-25,Cliente_024,Tablet,Celulares,Sudeste,9,1534.42
-200,2024-04-09,Cliente_036,Monitor,Computadores,Nordeste,1,1225.3
+id_venda,data_venda,cliente,produto,categoria,regiao,quantidade,preco_unitario,receita_total,mes,mes_nome,trimestre,ano,faixa_receita_item
+1,2024-05-20,Cliente_035,Mouse,Periféricos,Sudeste,2,102.9,205.8,5,May,Q2,2024,Baixo Valor
+2,2024-02-17,Cliente_042,Teclado,Periféricos,Norte,7,214.88,1504.1599999999999,2,February,Q1,2024,Médio Valor
+4,2024-06-21,Cliente_017,Smartphone,Celulares,Sudeste,4,2501.76,10007.04,6,June,Q2,2024,Alto Valor
+5,2024-07-12,Cliente_024,Mouse,Periféricos,Norte,8,121.3,970.4,7,July,Q3,2024,Médio Valor
+6,2024-04-26,Cliente_025,Smartphone,Celulares,Nordeste,2,1900.24,3800.48,4,April,Q2,2024,Médio Valor
+7,2024-06-30,Cliente_039,Monitor,Computadores,Sul,6,1078.56,6471.36,6,June,Q2,2024,Alto Valor
+8,2024-07-13,Cliente_021,Teclado,Periféricos,Sudeste,4,224.76,899.04,7,July,Q3,2024,Médio Valor
+9,2024-07-24,Cliente_021,Smartphone,Celulares,Sul,1,2401.33,2401.33,7,July,Q3,2024,Médio Valor
+10,2024-11-25,Cliente_017,Mouse,Periféricos,Norte,8,116.24,929.92,11,November,Q4,2024,Médio Valor
+11,2024-04-22,Cliente_008,Monitor,Computadores,Sul,10,1163.78,11637.8,4,April,Q2,2024,Alto Valor
+12,2024-08-04,Cliente_017,Mouse,Periféricos,Norte,3,130.51,391.53,8,August,Q3,2024,Baixo Valor
+13,2024-02-28,Cliente_008,Headset,Periféricos,Nordeste,1,368.93,368.93,2,February,Q1,2024,Baixo Valor
+14,2024-05-14,Cliente_041,Monitor,Computadores,Nordeste,3,1183.34,3550.0199999999995,5,May,Q2,2024,Médio Valor
+15,2024-03-19,Cliente_001,Headset,Periféricos,Norte,9,361.44,3252.96,3,March,Q1,2024,Médio Valor
+16,2024-07-04,Cliente_037,Tablet,Celulares,Sudeste,8,1540.52,12324.16,7,July,Q3,2024,Alto Valor
+17,2024-09-29,Cliente_017,Notebook,Computadores,Norte,8,3831.82,30654.56,9,September,Q3,2024,Alto Valor
+18,2024-04-18,Cliente_026,Headset,Periféricos,Nordeste,10,341.93,3419.3,4,April,Q2,2024,Médio Valor
+19,2024-05-06,Cliente_015,Monitor,Computadores,Sudeste,9,1182.54,10642.86,5,May,Q2,2024,Alto Valor
+20,2024-01-17,Cliente_014,Notebook,Computadores,Norte,1,3215.39,3215.39,1,January,Q1,2024,Médio Valor
+21,2024-05-04,Cliente_028,Smartphone,Celulares,Nordeste,10,2250.3,22503.0,5,May,Q2,2024,Alto Valor
+22,2024-01-28,Cliente_022,Monitor,Computadores,Sudeste,7,1188.13,8316.91,1,January,Q1,2024,Alto Valor
+23,2024-08-17,Cliente_005,Smartphone,Celulares,Centro-Oeste,4,1995.54,7982.16,8,August,Q3,2024,Alto Valor
+24,2024-11-29,Cliente_016,Headset,Periféricos,Sul,9,307.78,2770.0199999999995,11,November,Q4,2024,Médio Valor
+25,2024-07-24,Cliente_030,Monitor,Computadores,Nordeste,8,1193.29,9546.32,7,July,Q3,2024,Alto Valor
+26,2024-09-06,Cliente_035,Monitor,Computadores,Sudeste,9,1258.27,11324.43,9,September,Q3,2024,Alto Valor
+27,2024-10-26,Cliente_033,Mouse,Periféricos,Sudeste,6,104.06,624.36,10,October,Q4,2024,Médio Valor
+28,2024-02-04,Cliente_016,Headset,Periféricos,Norte,3,304.69,914.0699999999999,2,February,Q1,2024,Médio Valor
+29,2024-08-02,Cliente_043,Teclado,Periféricos,Nordeste,1,258.95,258.95,8,August,Q3,2024,Baixo Valor
+30,2024-12-09,Cliente_001,Smartphone,Celulares,Centro-Oeste,5,2131.22,10656.099999999999,12,December,Q4,2024,Alto Valor
+31,2024-02-07,Cliente_005,Teclado,Periféricos,Sul,10,287.21,2872.1,2,February,Q1,2024,Médio Valor
+32,2024-10-05,Cliente_001,Tablet,Celulares,Norte,5,1615.18,8075.900000000001,10,October,Q4,2024,Alto Valor
+33,2024-03-09,Cliente_019,Tablet,Celulares,Norte,2,2037.02,4074.04,3,March,Q1,2024,Médio Valor
+34,2024-11-20,Cliente_004,Smartphone,Celulares,Sudeste,6,2004.37,12026.22,11,November,Q4,2024,Alto Valor
+36,2024-02-27,Cliente_024,Teclado,Periféricos,Norte,7,254.57,1781.99,2,February,Q1,2024,Médio Valor
+37,2024-01-22,Cliente_023,Teclado,Periféricos,Sul,3,244.73,734.1899999999999,1,January,Q1,2024,Médio Valor
+38,2024-06-30,Cliente_010,Mouse,Periféricos,Sul,4,126.01,504.04,6,June,Q2,2024,Médio Valor
+41,2024-12-03,Cliente_018,Tablet,Celulares,Nordeste,4,1650.38,6601.52,12,December,Q4,2024,Alto Valor
+43,2024-06-25,Cliente_025,Notebook,Computadores,Norte,2,3601.4,7202.8,6,June,Q2,2024,Alto Valor
+45,2024-12-06,Cliente_020,Tablet,Celulares,Norte,7,1567.79,10974.529999999999,12,December,Q4,2024,Alto Valor
+46,2024-12-22,Cliente_044,Tablet,Celulares,Sul,7,1706.14,11942.980000000001,12,December,Q4,2024,Alto Valor
+47,2024-10-07,Cliente_039,Teclado,Periféricos,Nordeste,10,235.07,2350.7,10,October,Q4,2024,Médio Valor
+48,2024-04-19,Cliente_043,Monitor,Computadores,Sudeste,8,1179.18,9433.44,4,April,Q2,2024,Alto Valor
+49,2024-11-13,Cliente_015,Tablet,Celulares,Sul,9,1888.48,16996.32,11,November,Q4,2024,Alto Valor
+50,2024-08-31,Cliente_037,Smartphone,Celulares,Sul,1,1900.5,1900.5,8,August,Q3,2024,Médio Valor
+51,2024-05-04,Cliente_007,Mouse,Periféricos,Centro-Oeste,7,119.8,838.6,5,May,Q2,2024,Médio Valor
+52,2024-12-22,Cliente_030,Smartphone,Celulares,Sul,3,2400.71,7202.13,12,December,Q4,2024,Alto Valor
+53,2024-10-13,Cliente_047,Headset,Periféricos,Norte,8,367.6,2940.8,10,October,Q4,2024,Médio Valor
+54,2024-03-22,Cliente_041,Monitor,Computadores,Nordeste,9,1180.53,10624.77,3,March,Q1,2024,Alto Valor
+55,2024-05-02,Cliente_021,Headset,Periféricos,Norte,9,348.38,3135.42,5,May,Q2,2024,Médio Valor
+56,2024-07-15,Cliente_035,Notebook,Computadores,Centro-Oeste,3,3133.37,9400.11,7,July,Q3,2024,Alto Valor
+58,2024-06-29,Cliente_035,Monitor,Computadores,Norte,8,1022.12,8176.96,6,June,Q2,2024,Alto Valor
+59,2024-09-06,Cliente_044,Headset,Periféricos,Centro-Oeste,10,391.77,3917.7,9,September,Q3,2024,Médio Valor
+60,2024-03-06,Cliente_043,Mouse,Periféricos,Sudeste,3,132.26,396.78,3,March,Q1,2024,Baixo Valor
+61,2024-08-24,Cliente_022,Notebook,Computadores,Centro-Oeste,7,3117.48,21822.36,8,August,Q3,2024,Alto Valor
+62,2024-02-11,Cliente_015,Tablet,Celulares,Sudeste,7,1666.23,11663.61,2,February,Q1,2024,Alto Valor
+64,2024-05-11,Cliente_008,Teclado,Periféricos,Sul,4,247.38,989.52,5,May,Q2,2024,Médio Valor
+65,2024-06-08,Cliente_013,Tablet,Celulares,Sudeste,2,1842.49,3684.98,6,June,Q2,2024,Médio Valor
+66,2024-06-03,Cliente_003,Teclado,Periféricos,Nordeste,4,220.14,880.56,6,June,Q2,2024,Médio Valor
+67,2024-02-05,Cliente_007,Teclado,Periféricos,Centro-Oeste,7,262.11,1834.77,2,February,Q1,2024,Médio Valor
+68,2024-08-10,Cliente_035,Tablet,Celulares,Centro-Oeste,8,1911.95,15295.6,8,August,Q3,2024,Alto Valor
+69,2024-10-30,Cliente_029,Monitor,Computadores,Sul,7,1317.26,9220.82,10,October,Q4,2024,Alto Valor
+71,2024-11-01,Cliente_006,Headset,Periféricos,Sul,5,333.24,1666.2,11,November,Q4,2024,Médio Valor
+72,2024-05-03,Cliente_006,Mouse,Periféricos,Nordeste,7,119.59,837.13,5,May,Q2,2024,Médio Valor
+73,2024-06-05,Cliente_048,Smartphone,Celulares,Norte,7,2326.58,16286.06,6,June,Q2,2024,Alto Valor
+74,2024-05-18,Cliente_048,Tablet,Celulares,Norte,6,1909.54,11457.24,5,May,Q2,2024,Alto Valor
+75,2024-09-04,Cliente_007,Headset,Periféricos,Sul,3,317.61,952.83,9,September,Q3,2024,Médio Valor
+78,2024-09-01,Cliente_044,Notebook,Computadores,Sudeste,5,3963.12,19815.6,9,September,Q3,2024,Alto Valor
+79,2024-06-04,Cliente_039,Smartphone,Celulares,Norte,3,2405.35,7216.049999999999,6,June,Q2,2024,Alto Valor
+80,2024-08-14,Cliente_004,Smartphone,Celulares,Norte,9,2121.05,19089.45,8,August,Q3,2024,Alto Valor
+81,2024-04-16,Cliente_036,Mouse,Periféricos,Sudeste,2,136.11,272.22,4,April,Q2,2024,Baixo Valor
+82,2024-12-18,Cliente_045,Smartphone,Celulares,Centro-Oeste,1,2139.62,2139.62,12,December,Q4,2024,Médio Valor
+83,2024-11-16,Cliente_015,Notebook,Computadores,Sul,4,3945.11,15780.44,11,November,Q4,2024,Alto Valor
+84,2024-03-25,Cliente_029,Tablet,Celulares,Sudeste,3,1568.56,4705.68,3,March,Q1,2024,Médio Valor
+85,2024-05-19,Cliente_028,Monitor,Computadores,Nordeste,5,1271.9,6359.5,5,May,Q2,2024,Alto Valor
+86,2024-04-27,Cliente_049,Teclado,Periféricos,Nordeste,5,214.44,1072.2,4,April,Q2,2024,Médio Valor
+87,2024-03-30,Cliente_038,Teclado,Periféricos,Centro-Oeste,1,269.73,269.73,3,March,Q1,2024,Baixo Valor
+88,2024-08-28,Cliente_022,Mouse,Periféricos,Centro-Oeste,8,136.89,1095.12,8,August,Q3,2024,Médio Valor
+89,2024-07-24,Cliente_021,Mouse,Periféricos,Sudeste,8,112.38,899.04,7,July,Q3,2024,Médio Valor
+90,2024-01-01,Cliente_024,Headset,Periféricos,Norte,7,388.32,2718.24,1,January,Q1,2024,Médio Valor
+91,2024-01-27,Cliente_045,Headset,Periféricos,Centro-Oeste,8,363.17,2905.36,1,January,Q1,2024,Médio Valor
+93,2024-03-01,Cliente_046,Smartphone,Celulares,Nordeste,2,2174.56,4349.12,3,March,Q1,2024,Médio Valor
+94,2024-05-04,Cliente_048,Monitor,Computadores,Sul,8,1372.89,10983.12,5,May,Q2,2024,Alto Valor
+96,2024-12-03,Cliente_036,Headset,Periféricos,Norte,10,358.39,3583.8999999999996,12,December,Q4,2024,Médio Valor
+97,2024-04-06,Cliente_027,Monitor,Computadores,Sudeste,8,1355.83,10846.64,4,April,Q2,2024,Alto Valor
+98,2024-07-14,Cliente_032,Tablet,Celulares,Sudeste,8,1910.82,15286.56,7,July,Q3,2024,Alto Valor
+99,2024-06-18,Cliente_030,Smartphone,Celulares,Sudeste,9,2507.13,22564.170000000002,6,June,Q2,2024,Alto Valor
+100,2024-12-01,Cliente_040,Mouse,Periféricos,Centro-Oeste,3,116.76,350.28000000000003,12,December,Q4,2024,Baixo Valor
+101,2024-12-11,Cliente_049,Mouse,Periféricos,Centro-Oeste,2,132.66,265.32,12,December,Q4,2024,Baixo Valor
+102,2024-02-05,Cliente_006,Headset,Periféricos,Centro-Oeste,9,301.27,2711.43,2,February,Q1,2024,Médio Valor
+104,2024-07-29,Cliente_025,Monitor,Computadores,Norte,3,1107.91,3323.7300000000005,7,July,Q3,2024,Médio Valor
+105,2024-10-25,Cliente_001,Mouse,Periféricos,Centro-Oeste,4,119.92,479.68,10,October,Q4,2024,Baixo Valor
+106,2024-08-14,Cliente_045,Tablet,Celulares,Nordeste,9,1615.31,14537.789999999999,8,August,Q3,2024,Alto Valor
+107,2024-07-15,Cliente_019,Monitor,Computadores,Nordeste,5,1091.72,5458.6,7,July,Q3,2024,Alto Valor
+108,2024-10-16,Cliente_048,Notebook,Computadores,Centro-Oeste,7,3263.2,22842.399999999998,10,October,Q4,2024,Alto Valor
+109,2024-04-27,Cliente_044,Headset,Periféricos,Sul,5,378.95,1894.75,4,April,Q2,2024,Médio Valor
+111,2024-03-30,Cliente_033,Tablet,Celulares,Nordeste,6,1933.64,11601.84,3,March,Q1,2024,Alto Valor
+112,2024-09-03,Cliente_030,Headset,Periféricos,Sudeste,3,324.48,973.44,9,September,Q3,2024,Médio Valor
+113,2024-12-11,Cliente_026,Smartphone,Celulares,Sudeste,4,2437.69,9750.76,12,December,Q4,2024,Alto Valor
+114,2024-07-07,Cliente_024,Tablet,Celulares,Sudeste,9,1596.74,14370.66,7,July,Q3,2024,Alto Valor
+115,2024-11-13,Cliente_005,Mouse,Periféricos,Centro-Oeste,4,118.97,475.88,11,November,Q4,2024,Baixo Valor
+116,2024-02-29,Cliente_007,Mouse,Periféricos,Sul,5,125.37,626.85,2,February,Q1,2024,Médio Valor
+117,2024-07-08,Cliente_048,Teclado,Periféricos,Sul,3,241.65,724.95,7,July,Q3,2024,Médio Valor
+118,2024-11-11,Cliente_029,Monitor,Computadores,Centro-Oeste,2,1320.13,2640.26,11,November,Q4,2024,Médio Valor
+119,2024-12-17,Cliente_018,Smartphone,Celulares,Sul,6,1935.57,11613.42,12,December,Q4,2024,Alto Valor
+120,2024-04-18,Cliente_016,Notebook,Computadores,Sul,8,3071.26,24570.08,4,April,Q2,2024,Alto Valor
+121,2024-10-10,Cliente_010,Headset,Periféricos,Norte,10,319.05,3190.5,10,October,Q4,2024,Médio Valor
+122,2024-03-15,Cliente_002,Notebook,Computadores,Sul,5,3876.33,19381.65,3,March,Q1,2024,Alto Valor
+124,2024-07-04,Cliente_003,Notebook,Computadores,Norte,2,3475.06,6950.12,7,July,Q3,2024,Alto Valor
+125,2024-01-16,Cliente_032,Tablet,Celulares,Centro-Oeste,8,1877.4,15019.2,1,January,Q1,2024,Alto Valor
+126,2024-03-16,Cliente_021,Notebook,Computadores,Centro-Oeste,2,3313.22,6626.44,3,March,Q1,2024,Alto Valor
+127,2024-09-15,Cliente_042,Teclado,Periféricos,Norte,9,234.62,2111.58,9,September,Q3,2024,Médio Valor
+128,2024-04-26,Cliente_021,Mouse,Periféricos,Centro-Oeste,4,117.48,469.92,4,April,Q2,2024,Baixo Valor
+129,2024-03-19,Cliente_028,Tablet,Celulares,Sudeste,5,1732.12,8660.599999999999,3,March,Q1,2024,Alto Valor
+130,2024-10-11,Cliente_027,Mouse,Periféricos,Nordeste,6,131.22,787.3199999999999,10,October,Q4,2024,Médio Valor
+131,2024-01-27,Cliente_014,Headset,Periféricos,Sul,7,388.65,2720.5499999999997,1,January,Q1,2024,Médio Valor
+132,2024-02-25,Cliente_015,Mouse,Periféricos,Centro-Oeste,8,110.07,880.56,2,February,Q1,2024,Médio Valor
+133,2024-11-14,Cliente_045,Headset,Periféricos,Nordeste,9,399.83,3598.47,11,November,Q4,2024,Médio Valor
+134,2024-06-07,Cliente_043,Notebook,Computadores,Centro-Oeste,3,3261.93,9785.789999999999,6,June,Q2,2024,Alto Valor
+135,2024-01-16,Cliente_011,Notebook,Computadores,Nordeste,3,3753.02,11259.06,1,January,Q1,2024,Alto Valor
+136,2024-10-17,Cliente_004,Tablet,Celulares,Sudeste,6,1949.49,11696.94,10,October,Q4,2024,Alto Valor
+137,2024-09-05,Cliente_023,Tablet,Celulares,Centro-Oeste,8,1887.45,15099.6,9,September,Q3,2024,Alto Valor
+138,2024-10-30,Cliente_039,Notebook,Computadores,Sudeste,5,3687.13,18435.65,10,October,Q4,2024,Alto Valor
+139,2024-04-18,Cliente_032,Notebook,Computadores,Centro-Oeste,4,3291.49,13165.96,4,April,Q2,2024,Alto Valor
+140,2024-12-26,Cliente_026,Smartphone,Celulares,Sudeste,3,2120.94,6362.82,12,December,Q4,2024,Alto Valor
+141,2024-02-09,Cliente_027,Monitor,Computadores,Nordeste,1,1185.51,1185.51,2,February,Q1,2024,Médio Valor
+142,2024-06-15,Cliente_024,Notebook,Computadores,Sudeste,7,2996.9,20978.3,6,June,Q2,2024,Alto Valor
+143,2024-10-28,Cliente_015,Monitor,Computadores,Nordeste,2,1107.59,2215.18,10,October,Q4,2024,Médio Valor
+144,2024-11-20,Cliente_047,Headset,Periféricos,Sul,3,305.52,916.56,11,November,Q4,2024,Médio Valor
+145,2024-04-11,Cliente_050,Smartphone,Celulares,Centro-Oeste,2,1966.65,3933.3,4,April,Q2,2024,Médio Valor
+146,2024-08-17,Cliente_021,Monitor,Computadores,Nordeste,10,1293.56,12935.599999999999,8,August,Q3,2024,Alto Valor
+147,2024-08-14,Cliente_005,Smartphone,Celulares,Nordeste,8,1915.07,15320.56,8,August,Q3,2024,Alto Valor
+148,2024-07-07,Cliente_040,Monitor,Computadores,Norte,8,1033.54,8268.32,7,July,Q3,2024,Alto Valor
+149,2024-10-10,Cliente_037,Teclado,Periféricos,Sul,7,247.2,1730.3999999999999,10,October,Q4,2024,Médio Valor
+150,2024-03-18,Cliente_046,Tablet,Celulares,Sudeste,10,1786.84,17868.399999999998,3,March,Q1,2024,Alto Valor
+151,2024-12-28,Cliente_024,Teclado,Periféricos,Nordeste,3,215.44,646.3199999999999,12,December,Q4,2024,Médio Valor
+152,2024-12-13,Cliente_007,Monitor,Computadores,Norte,7,1298.81,9091.67,12,December,Q4,2024,Alto Valor
+153,2024-12-02,Cliente_043,Mouse,Periféricos,Sul,7,112.23,785.61,12,December,Q4,2024,Médio Valor
+154,2024-12-23,Cliente_036,Tablet,Celulares,Centro-Oeste,5,2052.56,10262.8,12,December,Q4,2024,Alto Valor
+155,2024-12-09,Cliente_006,Mouse,Periféricos,Centro-Oeste,6,131.27,787.6200000000001,12,December,Q4,2024,Médio Valor
+156,2024-06-07,Cliente_015,Teclado,Periféricos,Sul,6,213.87,1283.22,6,June,Q2,2024,Médio Valor
+157,2024-02-21,Cliente_043,Smartphone,Celulares,Nordeste,2,2065.22,4130.44,2,February,Q1,2024,Médio Valor
+158,2024-07-11,Cliente_011,Headset,Periféricos,Centro-Oeste,10,311.26,3112.6,7,July,Q3,2024,Médio Valor
+159,2024-05-01,Cliente_015,Notebook,Computadores,Norte,7,3357.51,23502.57,5,May,Q2,2024,Alto Valor
+160,2024-08-28,Cliente_029,Smartphone,Celulares,Centro-Oeste,5,2507.29,12536.45,8,August,Q3,2024,Alto Valor
+161,2024-09-14,Cliente_009,Headset,Periféricos,Nordeste,5,379.2,1896.0,9,September,Q3,2024,Médio Valor
+162,2024-10-10,Cliente_006,Notebook,Computadores,Sul,8,3892.82,31142.56,10,October,Q4,2024,Alto Valor
+163,2024-03-16,Cliente_023,Tablet,Celulares,Sudeste,8,2018.87,16150.96,3,March,Q1,2024,Alto Valor
+164,2024-07-10,Cliente_007,Monitor,Computadores,Nordeste,1,1162.72,1162.72,7,July,Q3,2024,Médio Valor
+165,2024-05-26,Cliente_031,Headset,Periféricos,Centro-Oeste,3,311.95,935.8499999999999,5,May,Q2,2024,Médio Valor
+166,2024-01-10,Cliente_034,Teclado,Periféricos,Centro-Oeste,1,280.44,280.44,1,January,Q1,2024,Baixo Valor
+169,2024-12-08,Cliente_033,Teclado,Periféricos,Norte,7,226.55,1585.8500000000001,12,December,Q4,2024,Médio Valor
+171,2024-11-17,Cliente_023,Tablet,Celulares,Norte,4,1925.79,7703.16,11,November,Q4,2024,Alto Valor
+172,2024-12-16,Cliente_005,Tablet,Celulares,Centro-Oeste,3,1978.41,5935.2300000000005,12,December,Q4,2024,Alto Valor
+173,2024-04-12,Cliente_035,Notebook,Computadores,Centro-Oeste,5,3186.67,15933.35,4,April,Q2,2024,Alto Valor
+174,2024-04-07,Cliente_018,Tablet,Celulares,Sudeste,1,1936.78,1936.78,4,April,Q2,2024,Médio Valor
+175,2024-07-23,Cliente_032,Headset,Periféricos,Centro-Oeste,6,343.38,2060.2799999999997,7,July,Q3,2024,Médio Valor
+176,2024-02-12,Cliente_035,Tablet,Celulares,Nordeste,9,1674.03,15066.27,2,February,Q1,2024,Alto Valor
+177,2024-12-04,Cliente_029,Tablet,Celulares,Nordeste,2,1573.24,3146.48,12,December,Q4,2024,Médio Valor
+178,2024-06-29,Cliente_004,Monitor,Computadores,Sudeste,1,1281.65,1281.65,6,June,Q2,2024,Médio Valor
+180,2024-11-26,Cliente_044,Smartphone,Celulares,Centro-Oeste,2,2025.76,4051.52,11,November,Q4,2024,Médio Valor
+181,2024-02-09,Cliente_016,Tablet,Celulares,Sudeste,6,1769.73,10618.380000000001,2,February,Q1,2024,Alto Valor
+182,2024-07-17,Cliente_014,Notebook,Computadores,Norte,3,3499.0,10497.0,7,July,Q3,2024,Alto Valor
+183,2024-03-10,Cliente_006,Tablet,Celulares,Nordeste,8,1638.1,13104.8,3,March,Q1,2024,Alto Valor
+184,2024-10-08,Cliente_045,Mouse,Periféricos,Sul,6,127.54,765.24,10,October,Q4,2024,Médio Valor
+185,2024-03-03,Cliente_024,Headset,Periféricos,Norte,6,350.92,2105.52,3,March,Q1,2024,Médio Valor
+186,2024-10-09,Cliente_046,Teclado,Periféricos,Centro-Oeste,6,247.56,1485.3600000000001,10,October,Q4,2024,Médio Valor
+187,2024-10-21,Cliente_044,Teclado,Periféricos,Norte,7,270.19,1891.33,10,October,Q4,2024,Médio Valor
+188,2024-10-09,Cliente_004,Tablet,Celulares,Sudeste,3,2004.1,6012.299999999999,10,October,Q4,2024,Alto Valor
+189,2024-03-23,Cliente_019,Teclado,Periféricos,Sudeste,3,235.31,705.9300000000001,3,March,Q1,2024,Médio Valor
+190,2024-10-09,Cliente_042,Tablet,Celulares,Sul,4,1872.93,7491.72,10,October,Q4,2024,Alto Valor
+191,2024-12-03,Cliente_003,Teclado,Periféricos,Sudeste,10,224.06,2240.6,12,December,Q4,2024,Médio Valor
+192,2024-10-22,Cliente_002,Notebook,Computadores,Centro-Oeste,1,3970.97,3970.97,10,October,Q4,2024,Médio Valor
+193,2024-06-03,Cliente_005,Mouse,Periféricos,Sudeste,9,112.43,1011.8700000000001,6,June,Q2,2024,Médio Valor
+194,2024-08-25,Cliente_047,Smartphone,Celulares,Nordeste,8,2144.31,17154.48,8,August,Q3,2024,Alto Valor
+195,2024-09-20,Cliente_016,Monitor,Computadores,Sul,3,1293.84,3881.5199999999995,9,September,Q3,2024,Médio Valor
+196,2024-07-15,Cliente_021,Notebook,Computadores,Norte,1,3279.72,3279.72,7,July,Q3,2024,Médio Valor
+197,2024-03-22,Cliente_002,Mouse,Periféricos,Sudeste,6,108.83,652.98,3,March,Q1,2024,Médio Valor
+198,2024-05-03,Cliente_042,Monitor,Computadores,Centro-Oeste,9,1184.6,10661.4,5,May,Q2,2024,Alto Valor
+199,2024-02-25,Cliente_024,Tablet,Celulares,Sudeste,9,1534.42,13809.78,2,February,Q1,2024,Alto Valor
+200,2024-04-09,Cliente_036,Monitor,Computadores,Nordeste,1,1225.3,1225.3,4,April,Q2,2024,Médio Valor
