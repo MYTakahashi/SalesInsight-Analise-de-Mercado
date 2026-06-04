@@ -1,3 +1,4 @@
+# Código principal para rodar o programa
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
@@ -7,8 +8,13 @@ import json
 import os
 import re
 import random
-from salesinsight import (AnalisadorComProjecao, gerar_dataset_vendas, gerar_dataset_vendas, limpar_strings_com_regex, calcular_estatisticas_numpy, exportar_resultados)    
+from salesinsight import gerar_dataset_vendas, AnalisadorComProjecao, limpar_strings_com_regex, calcular_estatisticas_numpy, exportar_resultados
+import warnings
 
+warnings.filterwarnings('ignore')
+warnings.simplefilter(action='ignore', category=FutureWarning)
+
+# Função principal que aciona as outras funções desenvolvidas no salesinsight.py
 def main():
     """
     Função principal: executa o pipeline completo do SalesInsight PY.
