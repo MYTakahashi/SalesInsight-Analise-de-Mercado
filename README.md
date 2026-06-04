@@ -66,6 +66,7 @@ Tópicos abordados:
 salesinsight-py/
 │
 ├── salesinsight.py
+├── main.py
 ├── vendas.csv
 ├── outputs/
 │       ├── graficos
@@ -86,6 +87,7 @@ salesinsight-py/
 1. Instale o Python 3.10+ e o VS Code.
 2. Crie uma pasta e salve todos os arquivos do projeto:
 - salesinsight.py
+- main.py
 - vendas.csv
 - requirements.txt
 
@@ -96,7 +98,7 @@ pip install - r requirements.txt
 Abra o terminal:
 
 ```bash
-4. Execute no terminal: python salesinsight.py
+4. Execute no terminal: python main.py
 ```
 
 ## Conceitos Aplicados ✅
