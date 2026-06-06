@@ -8,7 +8,7 @@ import json
 import os
 import re
 import random
-from salesinsight import gerar_dataset_vendas, AnalisadorComProjecao, limpar_strings_com_regex, calcular_estatisticas_numpy, exportar_resultados
+from salesinsight import gerar_dataset_vendas,inspecionar_dados,AnalisadorComProjecao, limpar_strings_com_regex, calcular_estatisticas_numpy, exportar_resultados
 import warnings
 
 warnings.filterwarnings('ignore')
@@ -29,15 +29,18 @@ def main():
         df_gerado.to_csv("vendas.csv", index=False)
     # Etapa 1 a 6: Pipeline via classe com herança
     analisador = AnalisadorComProjecao("vendas.csv", meses_projecao=3)
-    (analisador
-    .carregar()
-    .limpar()
-    .transformar()
-    .analisar()
-    .projetar_tendencia()
-    .visualizar()
+
+    analisador.carregar()
+    inspecionar_dados(analisador.df_bruto)
+
+    analisador\
+    .limpar()\
+    .transformar()\
+    .analisar()\
+    .projetar_tendencia()\
+    .visualizar()\
     .exportar_relatorio()
-    )
+
 
     # Etapa extra: limpeza com regex
     analisador.df_limpo = limpar_strings_com_regex(analisador.df_limpo)
