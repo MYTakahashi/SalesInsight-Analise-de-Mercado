@@ -83,9 +83,6 @@ def gerar_dataset_vendas(n_registros=200, seed=42):
 
     return pd.DataFrame(dados)
 
-df_bruto = gerar_dataset_vendas()
-df_bruto.to_csv("vendas.csv", index=False)
-
 # %%
 #Função para inspeção inicial dos dados.
 def inspecionar_dados(df):
@@ -401,12 +398,12 @@ class AnalisadorComProjecao(AnalisadorDeVendas):
     def exibir_projecao_detalhada(self):
         # Exibe as projeções calculadas.
         if not self.projecoes:
-            print("[AVISO] Nenhuma projeção disponível. Rode .projetar_tendencia() primeiro.")
+          print("[AVISO] Nenhuma projeção disponível. Rode .projetar_tendencia() primeiro.")
         return
+
         print("\n=== DETALHAMENTO DAS PROJEÇÕES ===")
         for p in self.projecoes:
-            print(f" Mês {p['mes']:02d}: R$ {p['receita_projetada']:,.2f}")
-
+           print(f" Mês {p['mes']:02d}: R$ {p['receita_projetada']:,.2f}")
 # %%
 # Função de transformação
 def processar_coluna(df, coluna, funcao_transformacao):
@@ -463,4 +460,7 @@ def limpar_strings_com_regex(df):
     print(f"\n=== LIMPEZA COM REGEX ===")
     print(f" Clientes com formato inválido encontrados: {n_invalidos}")
     print(f" Amostra de clientes limpos: {df['cliente_limpo'].head(5).tolist()}")
-    return df
+    return df 
+
+
+
