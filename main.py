@@ -52,5 +52,6 @@ def main():
     analisador.exibir_projecao_detalhada()
     print("\n[CONCLUÍDO] Pipeline finalizado com sucesso!")
 
+    
 if __name__ == "__main__":
     main()
