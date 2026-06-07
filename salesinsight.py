@@ -418,10 +418,6 @@ def processar_coluna(df, coluna, funcao_transformacao):
     print(f" Coluna '{coluna}_transformado' criada com sucesso.")
     return df
 
-# Uso da função com lambda como callback
-#df = processar_coluna(df, "receita_total", lambda x: round(x / 1000, 2))
-#df = processar_coluna(df, "quantidade", lambda x: "Alto" if x > 5 else "Baixo")
-
 # %%
 # Função para ler e escrever arquivos em CSV e JSON
 def exportar_resultados(metricas, clientes, stats_numpy):
