@@ -85,20 +85,21 @@ salesinsight-py/
 
 ```bash
 1. Instale o Python 3.10+ e o VS Code.
-2. Crie uma pasta e salve todos os arquivos do projeto:
-- salesinsight.py
-- main.py
-- vendas.csv
-- requirements.txt
-
-3. Instale as dependências: 
-pip install - r requirements.txt
+2. Crie uma pasta e um ambiente virtual
 ```
 
 Abra o terminal:
 
 ```bash
-4. Execute no terminal: python main.py
+3. Clone todos os arquivos deste projeto na pasta criada:
+- salesinsight.py
+- main.py 
+- requirements.txt
+
+4. Instale as dependências: 
+pip install - r requirements.txt
+
+5. Execute no terminal: python main.py
 ```
 
 ## Conceitos Aplicados ✅
@@ -124,13 +125,16 @@ Bibliotecas como `requests` permitem consumir essas APIs diretamente no Python.
 
 ---
 ## Vídeo de demonstração 🎬
-Colar o link do vídeo
-
+<p align="center">
+    <a href="https://drive.google.com/file/d/1GJ1XL6eydNtQfoSm7rNdMsCzVNWijxKd/view?usp=drive_link">
+        <img src="imagem/icone_video.png" width="300">
+    </a>
+    <br>
+    <em>Clique na imagem para assistir à apresentação do projeto.</em>
+</p>
 ---
 
-## Colaboradores: 🤓
+## 🤓 Colaboradores: 
 Auxiliadora Silvino Arce  
 Franciane Schier Leite  
-Marcelo Takahashi
-
-
+Marcelo Yukio Takahashi
